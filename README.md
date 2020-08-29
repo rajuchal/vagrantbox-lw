@@ -1,0 +1,1 @@
+# vagrantbox-lightweight-env
